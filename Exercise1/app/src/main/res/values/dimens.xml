@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_login">30dp</dimen>
+    <dimen name="margin_top10">10dp</dimen>
+    <dimen name="margin_top20">20dp</dimen>
+    <dimen name="margin_top30">30dp</dimen>
+    <dimen name="margin_top50">50dp</dimen>
+</resources>
